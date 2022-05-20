@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359732029587",
+    "project_id": "chatting-app-6f358",
+    "storage_bucket": "chatting-app-6f358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359732029587:android:c7a2d68f646158cd548566",
+        "android_client_info": {
+          "package_name": "com.flora.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359732029587-0a2ske3mjofca6gs4ko1etfo1s0vq9r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6cWX8jx_Z-zp_-pinQnXHsoJ2siELBPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359732029587-0a2ske3mjofca6gs4ko1etfo1s0vq9r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
