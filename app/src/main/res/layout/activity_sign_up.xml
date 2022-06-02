@@ -16,6 +16,7 @@
         >
 
         <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/profileImage"
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:src="@drawable/person"
@@ -37,7 +38,7 @@
             />
 
         <EditText
-            android:id="@+id/edt_email"
+            android:id="@+id/edt_email_sign_up"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Email"
@@ -45,7 +46,7 @@
             />
 
         <EditText
-            android:id="@+id/edt_password"
+            android:id="@+id/edt_password_sign_up"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Password"
@@ -53,7 +54,7 @@
             />
 
         <EditText
-            android:id="@+id/edt_username"
+            android:id="@+id/edt_username_sign_up"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Username"
