@@ -16,9 +16,10 @@
 
 
         <TextView
+            android:id="@+id/tv_forget_password"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Javlonbek Sobirov"
+            android:text="Forget password"
             android:textColor="@color/black"
             android:textStyle="bold"
             android:textSize="18sp"
